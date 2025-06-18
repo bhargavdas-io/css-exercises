@@ -1,0 +1,19 @@
+p.background-color {
+  font-family: Verdana, DejaVu Sans;
+  background-color: lightcoral;
+}
+
+div#blue {
+  font-size: 36px;
+  color: blue;
+}
+
+div#green {
+  background-color: greenyellow;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+p.background-color#font {
+  font-size: 24px;
+}
