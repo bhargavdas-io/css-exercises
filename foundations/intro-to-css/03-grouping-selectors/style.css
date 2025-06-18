@@ -1,0 +1,15 @@
+.clicktrue {
+  color: white;
+  background-color: black;
+}
+
+.clickfalse {
+  color: black;
+  background-color: yellow;
+}
+
+.clicktrue,
+.clickfalse {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
