@@ -11,6 +11,7 @@ body {
 }
 
 .title {
+  padding: 8px;
   margin-bottom: 8px;
   font-size: 18px;
   background: #e3f4ff;
