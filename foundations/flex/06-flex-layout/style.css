@@ -34,7 +34,7 @@ a {
 }
 
 ul {
-  display: flex;
+  display: flex; /* this is what is putting the texts side by side */
   list-style: none;
   margin: 0;
   padding: 0;
@@ -78,7 +78,7 @@ ul {
   flex-direction: column;
 } */
 
-.topcontainer {
+/* .topcontainer {
   display: flex;
   justify-content: space-between;
   flex-grow: 1;
@@ -88,4 +88,4 @@ ul {
   display: flex;
   justify-content: space-between;
   flex-grow: 1;
-}
+} */
